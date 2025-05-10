@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# SQLite database
+db.sqlite3
+
+# Machine learning models
+*.pkl
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary folders
+temp/
