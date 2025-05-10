@@ -8,11 +8,11 @@ A full-stack web application for predicting music genres using audio features. B
 
 ### 🎧 Home Page
 
-![Home Page](assets/homepage.png)
+![Home Page](assets/Home Page.jpg)
 
 ### 🎼 Prediction Result
 
-![Prediction Page](assets/prediction_result.png)
+![Prediction Page](assets/Prediction Page.jpg)
 
 ---
 
@@ -90,7 +90,7 @@ python manage.py runserver
 ```
 
 Open your browser and go to:  
-📍 `http://127.0.0.1:8000/`
+📍 `http://127.0.0.1:8000/upload/`
 
 ---
 
