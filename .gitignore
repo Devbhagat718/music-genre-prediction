@@ -21,3 +21,6 @@ Thumbs.db
 
 # Temporary folders
 temp/
+
+# Ignore large music archive
+Music Clips.zip
